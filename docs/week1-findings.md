@@ -16,7 +16,7 @@ npm start
 
 before running above commands , you will need to make sure that "node.js" is installed and you may simply do this by going here; "https://nodejs.org/" . Here you will need to install LTS version for this
 8) After all this; you will need to run run web app through localhost as mentioned above and then run ZAP to perform assessment through different aspects as mentioned
-9)Through browser dev tools; like network etc; explored the web app acordingly
+9)Through browser dev tools; like network etc; I have explored the web app accordingly
 10) basic sql injection test has also been performed accordingly (as per assignment)
 11) As the app is vulnerable and there are too many weknesses which can easily be found out through ZAP app
 
